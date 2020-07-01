@@ -19,7 +19,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #3498db;
 }
 
 .ui-menu-color-home {
@@ -27,15 +27,15 @@
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
-}
-
-.ui-menu-color-contact {
     background-color: #3498db;
 }
 
+.ui-menu-color-contact {
+    background-color: #34D304;
+}
+
 .ui-menu-color-download {
-    background-color: #525252;
+    background-color: #9F009E;
 }
 /* -----------------------------Special paddings / margins / text */
 
